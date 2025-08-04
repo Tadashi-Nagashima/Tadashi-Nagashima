@@ -1,4 +1,4 @@
-![banner]("./assets/Frame 1")
+![banner]("./assets/Frame 1.png")
 
 # Olá! Eu sou Tadashi Nagashima! ☄️
 
