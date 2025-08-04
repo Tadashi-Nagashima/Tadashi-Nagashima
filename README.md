@@ -1,3 +1,5 @@
+![banner](./assets/Frame 1)
+
 # Olá! Eu sou Tadashi Nagashima! ☄️
 
 Sou um estudante de Engenharia de Computação na UTFPR, apaixonado por tecnologia e focado na área de dados. 
