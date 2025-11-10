@@ -20,9 +20,9 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhec
 | ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | Intermediário |
 | ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | Intermediário |
 | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | Intermediário |
+| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | Intermediário |
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) | Básico |
 | ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | Básico |
-| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | Intermediário |
 | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Básico |
 
 # Experiências 💼
@@ -30,7 +30,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhec
 ### Estágio em Engenharia de dados
 ![Compass UOL Badge](https://img.shields.io/badge/Compass%20UOL-ffeccc?style=for-the-badge)
 
-**Mai/2025 - atual**
+*Mai/2025 - Out/2025*
 
 Atuo como estagiário de engenharia de dados com foco em AWS, minha principal responsabilidade é desenvolver projetos com foco em tratamento de dados e construção de infraestrutura, utilizando Python, SQL e Docker. Meu maior desafio foi fazer limpeza, transformações e visualização gráfica de um banco de dados de aplicativos da Google Play Store e apresentar isso aos demais colaboradores, elaborando uma documentação sobre meu processo e sobre as informações mostradas,  apresentando isso em formato de vídeo. Com esse projeto, consegui apresentar insights sobre a situação da loja de aplicativos, mostrando informações para tomadas de decisão estratégica unidas com um tratamento de dados eficiente, recebendo um feedback positivo sobre essa atividade.
 
